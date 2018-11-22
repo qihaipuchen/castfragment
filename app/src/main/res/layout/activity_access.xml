@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_access"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/access_status"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello World!" />
+
+    <Button
+        android:id="@+id/open_access"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Switch Accessibility " />
+
+    <Button
+        android:id="@+id/jump_appdetail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Jump App Detail" />
+</LinearLayout>

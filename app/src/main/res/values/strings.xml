@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyProNew</string>
+    <string name="accessibility_description">钉钉自动签到程序，其中可能需要一些权限，并不会获取您的手机信息，请您放心开启！</string>
+</resources>
